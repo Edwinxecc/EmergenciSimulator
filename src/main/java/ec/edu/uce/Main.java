@@ -1,7 +1,6 @@
 package ec.edu.uce;
 
 import ec.edu.uce.vista.VentanaPrincipal;
-
 import javax.swing.*;
 
 public class Main {
